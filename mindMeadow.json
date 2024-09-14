@@ -1,0 +1,34 @@
+[
+    {
+        "id": "0.99usd",
+        "reward": 1
+    },
+    {
+        "id": "3.99usd",
+        "reward": 4
+    },
+    {
+        "id": "7.99usd",
+        "reward": 8
+    },
+    {
+        "id": "15.99usd",
+        "reward": 16
+    },
+    {
+        "id": "24.99usd",
+        "reward": 25
+    },
+    {
+        "id": "39.99usd",
+        "reward": 40
+    },
+    {
+        "id": "59.99usd",
+        "reward": 60
+    },
+    {
+        "id": "89usd",
+        "reward": 90
+    }
+]
